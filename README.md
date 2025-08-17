@@ -1,2 +1,2 @@
 # MA2014
-team 3
+Copia de https://github.com/danotero/MA2014 para subir soluciones del equipo 3.
