@@ -2,3 +2,4 @@ venv/
 /quintosem
 .DS_STORE
 **/bayes/
+**/.DS_STORE
